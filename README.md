@@ -1,6 +1,11 @@
 <div align="center">
   
-# 👨‍💻 Anubhab Agrawal
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://avatars.githubusercontent.com/Anubhaw6557" alt="Profile Picture" width="100" style="border-radius: 100%; margin-right: 15px;">
+  <div>
+    <h1 style="margin: 0;">Anubhab Agrawal</h1>
+  </div>
+</div>
 
 <a href="mailto:aanubhaw0@gmail.com"><img src="https://img.shields.io/badge/-aanubhaw0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aanubhaw0@gmail.com" height="25"></a>
 <a href="https://linkedin.com/in/anubhab-agrawal-898872288"><img src="https://img.shields.io/badge/-Anubhab_Agrawal-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhab-agrawal-898872288" height="25"></a>
@@ -106,8 +111,6 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"> Docker
       </td>
-
-    </tr>
   </table>
   
   - 🏆 Led development of platform that secured **2nd place** in Hackfest 2025
