@@ -26,23 +26,13 @@
 
 ### 📚 About Me
 
-```yaml
-name: Anubhab Agrawal
-located_in: IIT ISM Dhanbad
-current_year: Sophomore
-education:
-  - "B.Tech in Computer Science Engineering - IIT ISM Dhanbad (2023-2027)"
-fields_of_interests:
-  - "Web Development"
-  - "Cybersecurity"
-  - "Competitive Programming"
-  - "Cloud Architecture"
-  - "Distributed Systems"
-hobbies:
-  - "Badminton"
-  - "CTFs"
-  - "Coding Contests"
-  - "Learning New Tech"
+```python
+name = Anubhab Agrawal
+located_in = IIT ISM Dhanbad
+current_year = Sophomore
+education = "B.Tech in Computer Science Engineering - IIT ISM Dhanbad (2023-2027)"
+fields_of_interests = ["Web Development" , "Cybersecurity" , "Competitive Programming" , "Cloud Architecture" , "Distributed Systems"]
+hobbies = ["Badminton" , "CTFs" , "Coding Contests" , "Learning New Tech"]
 ```
 ---
 ### 🚀 Featured Projects
