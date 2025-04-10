@@ -145,7 +145,7 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
   <br/>
   <a href="https://www.codechef.com/users/spyder_1212">
     <img src="https://img.shields.io/badge/CodeChef-spyder-brown?style=flat&logo=codechef" alt="CodeChef" height="22"/>
-    <img src="https://img.shields.io/badge/Rating-1212_(3★)-yellow?style=flat" alt="CC Rating" height="22"/>
+    <img src="https://img.shields.io/badge/Rating-1712_(3★)-yellow?style=flat" alt="CC Rating" height="22"/>
     <img src="https://img.shields.io/badge/Problems-50+-green?style=flat" alt="CC Problems" height="22"/>
   </a>
   
