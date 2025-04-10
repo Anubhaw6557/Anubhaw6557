@@ -27,7 +27,7 @@
 ### 📚 About Me
 
 ```python
-name = Anubhab Agrawal
+name = SPYD3R
 located_in = IIT ISM Dhanbad
 current_year = Sophomore
 education = "B.Tech in Computer Science Engineering - IIT ISM Dhanbad (2023-2027)"
