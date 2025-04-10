@@ -76,7 +76,7 @@ hobbies:
 
 ---
 
-<p>
+<p align="center">
   <a href="mailto:aanubhaw0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -89,4 +89,4 @@ hobbies:
 </p>
 
 
-<div align="center" style="margin: 20px 0;"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Anubhaw6557.Anubhaw6557" alt="Visitors"/> <br/><br/> <a href="https://github.com/Anubhaw6557?tab=repositories" style="background: #4caf50; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; transition: background 0.3s ease;" onmouseover="this.style.background='#43a047'" onmouseout="this.style.background='#4caf50'">Check Out My Repositories</a> <br/><br/> <strong>Show some ❤️ by starring some of the repositories!</strong> </div>
+<div align="center" style="margin: 20px 0;"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Anubhaw6557.Anubhaw6557" alt="Visitors"/> <br/> <a href="https://github.com/Anubhaw6557?tab=repositories" style="background: #4caf50; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; transition: background 0.3s ease;" onmouseover="this.style.background='#43a047'" onmouseout="this.style.background='#4caf50'">Check Out My Repositories</a> <br/><br/> <strong>Show some ❤️ by starring some of the repositories!</strong> </div>
