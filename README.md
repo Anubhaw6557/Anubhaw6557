@@ -2,9 +2,9 @@
   
 # 👨‍💻 Anubhab Agrawal
 
-[![Email](https://img.shields.io/badge/Email-aanubhaw0%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aanubhaw0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhab_Agrawal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anubhab-agrawal-898872288/)
-[![GitHub](https://img.shields.io/badge/GitHub-Anubhaw6557-181717?style=for-the-badge&logo=github)](https://github.com/Anubhaw6557)
+<a href="mailto:aanubhaw0@gmail.com"><img src="https://img.shields.io/badge/-aanubhaw0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aanubhaw0@gmail.com" height="25"></a>
+<a href="https://linkedin.com/in/anubhab-agrawal-898872288"><img src="https://img.shields.io/badge/-Anubhab_Agrawal-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anubhab-agrawal-898872288" height="25"></a>
+<a href="https://github.com/Anubhaw6557"><img src="https://img.shields.io/github/followers/Anubhaw6557?label=follow&style=social" height="25"></a>
 
 **`Digital Craftsman (Developer/Cybersecurity Enthusiast/Competitive Programmer)`**
 
@@ -59,28 +59,61 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
 <details>
   <summary><b>💻 Hackfest'25 Website</b></summary>
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> React
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"> Express
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"> MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"> Tailwind
+      </td>
+    </tr>
+  </table>
   
   - 🚀 Built & deployed platform serving **500+ participants** and **30 team members**
   - ⚡ Engineered registration system with automated email workflows, reducing manual work by **90%**
   - 🔒 Developed secure admin dashboard with QR-based authentication
   - 📋 Designed responsive team directory managing **150+ team profiles**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/Anubhaw6557/Hackfest-25-Backend)
+  [<img src="https://img.shields.io/badge/-View%20Code-black?style=for-the-badge&logo=github" width="100">](https://github.com/Anubhaw6557/Hackfest-25-Backend)
 </details>
 
 <details>
   <summary><b>🎮 HectoClash - Realtime Math Dueling Platform</b></summary>
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> React
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"> Go
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"> Redis
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"> MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"> Kubernetes
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"> Docker
+      </td>
+      <td colspan="2">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"> Tailwind CSS
+      </td>
+    </tr>
+  </table>
   
   - 🏆 Led development of platform that secured **2nd place** in Hackfest 2025
   - ☁️ Designed Kubernetes architecture supporting **10,000+ concurrent connections**
@@ -88,16 +121,16 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
   - 🤝 Implemented Elo-based matchmaking system
   - 📊 Built live leaderboard & spectator mode for **1,000+ viewers**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/Anubhaw6557/HectoClash)
+  [<img src="https://img.shields.io/badge/-View%20Code-black?style=for-the-badge&logo=github" width="100">](https://github.com/Anubhaw6557/HectoClash)
 </details>
 
 ---
 
 ### 🏆 Achievements
 
-- 🔐 **Cronos CTF 2025**: 2nd place with team "sorry guys" in national competition
-- 🚀 **Hackfest 2025**: 2nd position in the Matiks Problem Statement
-- 🌐 **International CTFs**: Impressive ranks in NahamCon, DownUnder, HITCON, and PicoCTF
+- 🔐 **Cronos CTF 2025**: 2nd place with team sorry guys in national competition
+- 🚀 **Hackfest 2025**: 2nd position in the Matiks Problem Statement with team Sync or Sink
+- 🌐 **International CTFs**: Impressive ranks in NahamCon, DownUnder, HITCON, and PicoCTF as team sorry guys
 - 💻 **Winter of Code 6.0**: 3rd place among 300+ participants in Infosec hackathon
 
 ---
@@ -106,13 +139,17 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
 
 <div align="center">
   
-  [![Codeforces](https://img.shields.io/badge/Codeforces-SPYD3R-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/SPYD3R)
-  ![CF Rating](https://img.shields.io/badge/Rating-1391_Pupil-blue?style=for-the-badge)
-  ![CF Problems](https://img.shields.io/badge/Problems-200+-green?style=for-the-badge)
-  
-  [![CodeChef](https://img.shields.io/badge/CodeChef-spyder-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/spyder_1212)
-  ![CC Rating](https://img.shields.io/badge/Rating-1212_(3★)-yellow?style=for-the-badge)
-  ![CC Problems](https://img.shields.io/badge/Problems-50+-green?style=for-the-badge)
+  <a href="https://codeforces.com/profile/SPYD3R">
+    <img src="https://img.shields.io/badge/Codeforces-SPYD3R-red?style=flat&logo=codeforces" alt="Codeforces" height="22"/>
+    <img src="https://img.shields.io/badge/Rating-1391_Pupil-blue?style=flat" alt="CF Rating" height="22"/>
+    <img src="https://img.shields.io/badge/Problems-200+-green?style=flat" alt="CF Problems" height="22"/>
+  </a>
+  <br/>
+  <a href="https://www.codechef.com/users/spyder_1212">
+    <img src="https://img.shields.io/badge/CodeChef-spyder-brown?style=flat&logo=codechef" alt="CodeChef" height="22"/>
+    <img src="https://img.shields.io/badge/Rating-1212_(3★)-yellow?style=flat" alt="CC Rating" height="22"/>
+    <img src="https://img.shields.io/badge/Problems-50+-green?style=flat" alt="CC Problems" height="22"/>
+  </a>
   
 </div>
 
@@ -130,7 +167,10 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
 <div align="center">
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhaw6557.Anubhaw6557)
-  [![GitHub followers](https://img.shields.io/github/followers/Anubhaw6557?style=social)](https://github.com/Anubhaw6557)
+  
+  <a href="https://github.com/Anubhaw6557?tab=repositories">
+    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Repos-green?style=for-the-badge" alt="Repositories" height="30"/>
+  </a>
   
   ### Show some ❤️ by starring some of the repositories!
   
