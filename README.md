@@ -1,94 +1,137 @@
-# 🌟 Anubhaba Agrawal
+<div align="center">
+  
+# 👨‍💻 Anubhab Agrawal
 
-**Admission No.:** 23JE0127  
-**Email:** [aanubhaw0@gmail.com](mailto:aanubhaw0@gmail.com)  
-**LinkedIn:** [Anubhab Agrawal](https://www.linkedin.com/in/anubhab-agrawal-898872288/)  
-**GitHub:** [Anubhaw6557](https://github.com/Anubhaw6557)
+[![Email](https://img.shields.io/badge/Email-aanubhaw0%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aanubhaw0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhab_Agrawal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anubhab-agrawal-898872288/)
+[![GitHub](https://img.shields.io/badge/GitHub-Anubhaw6557-181717?style=for-the-badge&logo=github)](https://github.com/Anubhaw6557)
 
----
+**`Digital Craftsman (Developer/Cybersecurity Enthusiast/Competitive Programmer)`**
 
-## 🎓 Education
-
-**IIT (ISM) Dhanbad**  
-*Bachelor of Science in Computer Science* (Expected May 2027)  
-- **Relevant Coursework:**  
-  - 📚 Data Structures & Algorithms (C++)  
-  - 📊 Probability & Statistics  
-  - 💻 Computer Organization & Architecture
+</div>
 
 ---
 
-## 🚀 Projects
+### 🧰 Languages and Tools
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<br />
+<br />
+
+---
+
+### 📚 About Me
+
+```yaml
+name: Anubhab Agrawal
+located_in: IIT ISM Dhanbad
+current_year: Sophomore
+education:
+  [
+    "B.Tech in Computer Science Engineering - IIT ISM Dhanbad (2023-2027)",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Cybersecurity",
+    "Competitive Programming",
+    "Cloud Architecture",
+    "Distributed Systems",
+  ]
+hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
+```
+
+---
+
+### 🚀 Featured Projects
 
 <details>
-  <summary>💻 <strong>Hackfest’25 Website</strong> — Full-stack Web Application</summary>
-
-  - **Technologies:** React, Express, MongoDB, Tailwind CSS
-  - **Highlights:**
-    - 🎉 Built & deployed a platform serving over 500 participants and 30 organizing team members.
-    - ⚡ Engineered a registration system for 500+ signups with automated email workflows, reducing manual overhead by 90%.
-    - 🔒 Developed a secure admin dashboard for real-time check-in tracking using QR-based authentication.
-    - 📋 Designed a responsive team directory to manage 150+ team profiles efficiently.
-  - **GitHub:** [Hackfest-25-Backend](https://github.com/Anubhaw6557/Hackfest-25-Backend)
+  <summary><b>💻 Hackfest'25 Website</b></summary>
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  - 🚀 Built & deployed platform serving **500+ participants** and **30 team members**
+  - ⚡ Engineered registration system with automated email workflows, reducing manual work by **90%**
+  - 🔒 Developed secure admin dashboard with QR-based authentication
+  - 📋 Designed responsive team directory managing **150+ team profiles**
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/Anubhaw6557/Hackfest-25-Backend)
 </details>
 
 <details>
-  <summary>🎮 <strong>Hectoclash</strong> — Real-time Mathematics Dueling Platform</summary>
-
-  - **Technologies:** React, Go, Redis, MongoDB, Kubernetes, Docker, WebSockets, Tailwind CSS
-  - **Highlights:**
-    - 🏆 Led development of a platform that secured **2nd place** in the Hackfest 2025 Problem Statement category.
-    - ☁️ Designed a Kubernetes-based microservices architecture supporting 10,000+ concurrent connections.
-    - ⏱️ Optimized a Redis pub/sub system for real-time updates under 100ms latency.
-    - 🤝 Implemented an Elo-based matchmaking system ensuring fair competition.
-    - 📊 Developed a live leaderboard and real-time spectator mode for over 1,000 concurrent viewers.
-  - **GitHub:** [HectoClash](https://github.com/Anubhaw6557/HectoClash)
+  <summary><b>🎮 HectoClash - Realtime Math Dueling Platform</b></summary>
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+  - 🏆 Led development of platform that secured **2nd place** in Hackfest 2025
+  - ☁️ Designed Kubernetes architecture supporting **10,000+ concurrent connections**
+  - ⏱️ Optimized Redis pub/sub system with **<100ms latency**
+  - 🤝 Implemented Elo-based matchmaking system
+  - 📊 Built live leaderboard & spectator mode for **1,000+ viewers**
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/Anubhaw6557/HectoClash)
 </details>
 
 ---
 
-## 💡 Technical Skills
+### 🏆 Achievements
 
-- **Programming Languages:**  
-  - C, C++, Python, Go, JavaScript, TypeScript, HTML, CSS  
-- **Tools & Technologies:**  
-  - Linux, React.js, Express.js, Node.js, Tailwind CSS, Docker, Kubernetes, GCP, Redis, MongoDB  
-- **Core Concepts:**  
-  - Cybersecurity, Operating Systems, Encryption/Decryption, APIs, Cloud Computing, Computer Architecture
+- 🔐 **Cronos CTF 2025**: 2nd place with team "sorry guys" in national competition
+- 🚀 **Hackfest 2025**: 2nd position in the Matiks Problem Statement
+- 🌐 **International CTFs**: Impressive ranks in NahamCon, DownUnder, HITCON, and PicoCTF
+- 💻 **Winter of Code 6.0**: 3rd place among 300+ participants in Infosec hackathon
 
 ---
 
-## 🔢 Sport Programming
+### 🏋️ Competitive Programming
 
-- **Codeforces:**  
-  - **Handle:** SPYD3R  
-  - **Rating:** 1391 (Pupil)  
-  - **Problems Solved:** 200+  
-- **Codechef:**  
-  - **Handle:** spyder  
-  - **Rating:** 1212 (3*)  
-  - **Problems Solved:** 50+  
-
-💻 [Codeforces Profile](https://codeforces.com/profile/SPYD3R) | [Codechef Profile](https://www.codechef.com/users/spyder_1212)
-
----
-
-## 🏅 Achievements
-
-- **Cronos CTF 2025 (IIT Mandi):**  
-  🥈 Secured **2nd place** with team "sorry guys" in a national-level cybersecurity competition.
-- **Hackfest 2025:**  
-  ⚡ Achieved **2nd position** in the Matiks Problem Statement with team "Sync or Sink".
-- **International CTFs:**  
-  🌐 Earned impressive ranks in NahamCon, DownUnder, HITCON, and PicoCTF as team "sorry guys".
-- **Winter of Code 6.0 (Infosec Division):**  
-  🏆 Secured **3rd place** among 300+ participants in a month-long Infosec hackathon organized by CyberLabs.
+<div align="center">
+  
+  [![Codeforces](https://img.shields.io/badge/Codeforces-SPYD3R-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/SPYD3R)
+  ![CF Rating](https://img.shields.io/badge/Rating-1391_Pupil-blue?style=for-the-badge)
+  ![CF Problems](https://img.shields.io/badge/Problems-200+-green?style=for-the-badge)
+  
+  [![CodeChef](https://img.shields.io/badge/CodeChef-spyder-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/spyder_1212)
+  ![CC Rating](https://img.shields.io/badge/Rating-1212_(3★)-yellow?style=for-the-badge)
+  ![CC Problems](https://img.shields.io/badge/Problems-50+-green?style=for-the-badge)
+  
+</div>
 
 ---
 
-## 🤝 Social Engagements
+### 🤝 Campus Leadership
 
-- **Infosec Division Head, CyberLabs** — Software Development Club, IIT (ISM) Dhanbad.
-- **Core Member, C3** — Competitive Coding Club, IIT (ISM) Dhanbad.
-- **Organizer, HackFest’25** — Inter-college hackathon hosted at IIT Dhanbad.
-- **Badminton Player** — Actively engaged in college-level sports.
+- 🔒 **Infosec Division Head** at CyberLabs, IIT ISM Dhanbad
+- 💻 **Core Member** at C3 (Competitive Coding Club), IIT ISM Dhanbad
+- 🚀 **Event Organizer** for HackFest'25, IIT ISM Dhanbad
+- 🏸 Active **Badminton Player** in college tournaments
+
+---
+
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhaw6557.Anubhaw6557)
+  [![GitHub followers](https://img.shields.io/github/followers/Anubhaw6557?style=social)](https://github.com/Anubhaw6557)
+  
+  ### Show some ❤️ by starring some of the repositories!
+  
+</div>
