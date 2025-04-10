@@ -70,9 +70,6 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"> MongoDB
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"> Tailwind
-      </td>
     </tr>
   </table>
   
@@ -109,9 +106,7 @@ hobbies: ["Badminton", "CTFs", "Coding Contests", "Learning New Tech"]
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"> Docker
       </td>
-      <td colspan="2">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"> Tailwind CSS
-      </td>
+
     </tr>
   </table>
   
